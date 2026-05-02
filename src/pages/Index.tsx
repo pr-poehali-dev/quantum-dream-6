@@ -5,7 +5,7 @@ export default function Index() {
       <nav className="fixed top-0 left-0 w-full z-50 bg-white border-b border-black">
         <div className="container mx-auto px-4 md:px-8 py-4 flex justify-between items-center">
           <a href="/" className="text-xl font-bold tracking-tighter" style={{ fontFamily: "'Space Mono', monospace" }}>
-            GRIDFORM
+            AUTO PROGMAT
           </a>
           <div className="hidden md:flex space-x-8">
             <a href="#work" className="text-sm uppercase tracking-widest hover:text-red-600 transition-colors">
@@ -68,7 +68,7 @@ export default function Index() {
                   className="text-white text-9xl font-bold select-none"
                   style={{ fontFamily: "'Space Mono', monospace" }}
                 >
-                  GF
+                  AP
                 </span>
               </div>
               <div className="absolute -bottom-4 -right-4 w-24 h-24 bg-black"></div>
@@ -220,7 +220,7 @@ export default function Index() {
             </div>
             <div className="col-span-12 md:col-span-7 md:pt-24">
               <p className="text-2xl font-medium mb-6 leading-snug">
-                GRIDFORM — студия системного дизайна. Мы работаем там, где нужна не просто красота, а точность и смысл.
+                AUTO PROGMAT — студия системного дизайна. Мы работаем там, где нужна не просто красота, а точность и смысл.
               </p>
               <p className="mb-5 text-neutral-600">
                 Наш подход — швейцарский минимализм в действии. Мы строим бренды на модульных сетках, выверенной
@@ -374,7 +374,7 @@ export default function Index() {
       {/* Footer */}
       <footer className="py-8 px-4 md:px-8 bg-black text-white">
         <div className="container mx-auto flex flex-col md:flex-row justify-between items-center gap-4">
-          <p className="text-sm opacity-50">© 2025 GRIDFORM Studio. Все права защищены.</p>
+          <p className="text-sm opacity-50">© 2025 AUTO PROGMAT. Все права защищены.</p>
           <div className="flex space-x-8">
             <a href="#" className="text-sm uppercase tracking-widest hover:text-red-600 transition-colors">
               Telegram
